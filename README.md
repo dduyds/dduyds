@@ -4,4 +4,3 @@
 - 😄 Pronouns: Rockie.
 - ⚡ Narrow: Learn everything that you're curious about.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dduyds&hide_progress=true)
