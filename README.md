@@ -4,9 +4,9 @@
 - 😄 Pronouns: Rockie.
 - ⚡ Narrow: Learn everything that you're curious about.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dduyds&repo=aaaa)](https://github.com/dduyds/Healthcare-Appointment-Chatbot.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=bbbb)](https://github.com/dduyds/Employee-turnover-analytics.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dduyds&repo=Healthcare-Appointment-Chatbot&description_lines_count=3)](https://github.com/dduyds/Healthcare-Appointment-Chatbot.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/dduyds/Employee-turnover-analytics.git)
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dduyds&repo=Healthcare-Appointment-Chatbot&description_lines_count=3)(https://github.com/dduyds/Healthcare-Appointment-Chatbot.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dduyds&repo=Employee-turnover-analytics&description_lines_count=1)](https://github.com/dduyds/Employee-turnover-analytics.git)
 
 
